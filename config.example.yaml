@@ -1,0 +1,9 @@
+server_api:
+  secure: false
+  host: localhost
+  port: 8080
+
+server_web:
+  secure: false
+  host: localhost
+  port: 8181
