@@ -1,9 +1,6 @@
 on:
   release:
     types: [created]
-  push:
-    branches:
-      - feature/add-gh-action-config
 
 jobs:
   release-linux-amd64:
